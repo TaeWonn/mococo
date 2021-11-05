@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: ENC(Zvo42MzhUuiu7ENGwqmXQLIQ2Q+hibijGdoND+wE7lA/fP7zSizIZ+57dd6ZBlY+)
+    username: root
+    password:
+
+  jpa:
+    show-sql: true
